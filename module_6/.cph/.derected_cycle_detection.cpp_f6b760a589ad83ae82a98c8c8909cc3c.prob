@@ -1,0 +1,1 @@
+{"name":"Local: derected_cycle_detection","url":"e:\\4.Algorithm\\module_6\\derected_cycle_detection.cpp","tests":[{"id":1758046079654,"input":"\n6 5\n0 1\n1 2\n2 3\n3 0\n4 5","output":"Cycle"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\4.Algorithm\\module_6\\derected_cycle_detection.cpp","group":"local","local":true}
